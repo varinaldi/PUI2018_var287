@@ -2,18 +2,18 @@
 
 ### Assignment 1</br>
 
+1. Created a test.csv file on HW3_var287 </br>
+<img align="center" src="HW3_1_var287/created_testcsv.png" width="60%"> </br>
 
-<img src="HW3_1_var287/created_testcsv.png" width="60%"> </br>
-Created a test.csv file on HW3_var287 </br>
+2. Observe the test.csv file </br>
+<img align="center" src="HW3_1_var287/testcsv.png" width="60%"> </br>
 
-<img src="HW3_1_var287/testcsv.png" width="60%"> </br>
-Observe a test.csv file </br>
+3. add an empty README.md file </br>
+<img align="center" src="HW3_1_var287/add_readme.png" width="60%"></br>
 
-<img src="HW3_1_var287/add_readme.png" width="60%"></br>
-add an empty README.md file </br>
+4. Delete test.csv entirely along with its history </br>
+<img align="center" src="HW3_1_var287/delete_testcsv.png" width="60%"></br>
 
-<img src="HW3_1_var287/delete_testcsv.png" width="60%"></br>
-Delete test.csv entirely along with its history </br>
 
 </br>
 
