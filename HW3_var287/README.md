@@ -3,16 +3,16 @@
 ### Assignment 1</br>
 
 
-<img src="HW3_1_var287/created_testcsv.png" width="48"> </br>
+<img src="HW3_1_var287/created_testcsv.png" width="60%"> </br>
 Created a test.csv file on HW3_var287 </br>
 
-<img src="HW3_1_var287/testcsv.png" width="48"> </br>
+<img src="HW3_1_var287/testcsv.png" width="60%"> </br>
 Observe a test.csv file </br>
 
-<img src="HW3_1_var287/add_readme.png" width="48"></br>
+<img src="HW3_1_var287/add_readme.png" width="60%"></br>
 add an empty README.md file </br>
 
-<img src="HW3_1_var287/delete_testcsv.png" width="48"></br>
+<img src="HW3_1_var287/delete_testcsv.png" width="60%"></br>
 Delete test.csv entirely along with its history </br>
 
 </br>
