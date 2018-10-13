@@ -5,5 +5,7 @@
 2. Add the fomular to hypothesis like: (suppose you plan to use the first hypothesis: to compare the mean of two sample)
 $ H0: Subscriber‘s mean >= Customer's mean $
 $ H1: Subscriber‘s mean <= Customer's mean $
+> Data
+Good data cleaning. I think that's enough for further test
 > Test
 I will recommend 1 tail T-test based on the hypothesis above
