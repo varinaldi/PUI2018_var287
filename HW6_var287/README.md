@@ -16,7 +16,8 @@ For Assignment 2, I worked with Fekade Brooks. I did Anova and Logistic Regressi
 
 
 
-
+<br>
+<br>
 
 
 <img align="center" src="Anova.png" width="60%"> </br>
