@@ -1,8 +1,6 @@
 # HW 8
 
-### Assignment 1
-
-### AirBnb Distribution in New York City
+# AirBnb Distribution in New York City
 
 ![Alt text](nycbnb.png)
 
